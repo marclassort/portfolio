@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "Arts martiaux",
+		"end": "Arts culturels",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,15 +11,15 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Shinkyôkai",
+		"usp": "Académie d'arts martiaux"
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "RYU & ACADÉMIE D'ARTS MARTIAUX",
 
 	"buttons": {
 		"primary": {
-			"title": "Contact Me",
+			"title": "Contactez-nous",
 			"url": "",
 			"leaveSite": false
 		},
